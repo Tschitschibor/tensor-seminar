@@ -1,0 +1,10 @@
+Algorithmus für r >= 2
+
+Tensorprodukt klären
+
+Beispiel wo es klappt
+
+mit kleinem Beispiel anfangen
+
+Da Silva Beispiel zuende rechnen warum r = 3?
+
